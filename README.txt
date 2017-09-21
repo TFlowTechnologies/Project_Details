@@ -1,7 +1,7 @@
-Team members:   Andrew Rizk   		-
-		Esteban Bolduc		-
+Team members:   Andrew Rizk   		-300017982
+		Esteban Bolduc		-30021249
 		Pascal Marleau-Proulx   -300034507
-		Sahil Tara   		-
+		Sahil Tara   		-300018569
 		Vincent Madore Charron  -7940446
 Company name: 
 Product name: TFlow 
