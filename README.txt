@@ -5,5 +5,5 @@ Team members:   Andrew Rizk   		-300017982
 		Vincent Madore Charron  -7940446
 Company name: 
 Product name: TFlow 
-		Is a GPS based system that controls traffic to increase the effectivity or fist responders.
+		Is a GPS based system that controls traffic to increase the effectivity or first responders.
 		By changing the lights while keeping thorough safety measures.
